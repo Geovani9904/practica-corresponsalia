@@ -1,0 +1,20 @@
+<template>
+  <v-container class="fill-height">
+    <v-layout>
+      <!-- <HelloWorld /> -->
+      <h1>Home</h1>
+    </v-layout>
+    <Login class="mt-5"/>
+  </v-container>
+</template>
+
+<script >
+  // import HelloWorld from '@/components/HelloWorld.vue'
+  import Login from "../components/Login.vue";
+
+  export default {
+    components: {
+      Login
+    }
+  };
+</script>
