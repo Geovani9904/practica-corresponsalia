@@ -4,7 +4,7 @@
       <!-- <HelloWorld /> -->
       <h1>Home</h1>
     </v-layout>
-    <Login class="mt-5"/>
+    <Login class="mt-9" style="margin: 290px;"/>
   </v-container>
 </template>
 

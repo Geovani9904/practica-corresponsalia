@@ -9,7 +9,7 @@
           class="hidden-md-and-up"
         ></v-toolbar-side-icon>
         <v-toolbar-title class="headline text-uppercase"
-          >Vuetify Demo</v-toolbar-title
+          >Login</v-toolbar-title
         >
         <v-spacer></v-spacer>
         <v-toolbar-items class="hidden-sm-and-down">
