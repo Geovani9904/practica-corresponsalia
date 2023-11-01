@@ -1,5 +1,5 @@
 <template>
-  <v-container class="fill-height">
+  <v-container >
     <v-layout>
       <!-- <HelloWorld /> -->
       <h1>Home</h1>
